@@ -31,5 +31,5 @@ This project analyzes 4,600 home sales in Washington State to identify key facto
 
 ## 🚀 How to Run
 1. Clone this repository.
-2. Open the Kaggle Notebook link (provided in the report).
+2. Open the Kaggle Notebook link (https://www.kaggle.com/code/bassamtark/notebookf7edc9c96c).
 3. Run all cells to reproduce the analysis.
